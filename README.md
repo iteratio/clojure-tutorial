@@ -1,6 +1,6 @@
 # tutorial
 
-Going through a clousure course and keeping my code here so I can jump between computers
+Going through a Clojure course and keeping my code here so I can jump between computers
 
 ## Installation
 
