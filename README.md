@@ -1,20 +1,18 @@
 # tutorial
 
-FIXME: description
+Going through a clousure course and keeping my code here so I can jump between computers
 
 ## Installation
 
-Download from http://example.com/FIXME.
+Just clone to use. I use IntelliJ Community Edition with Cursive and REPL
 
 ## Usage
 
-FIXME: explanation
-
-    $ java -jar tutorial-0.1.0-standalone.jar [args]
+Nothing in particular
 
 ## Options
 
-FIXME: listing of options this app accepts.
+None
 
 ## Examples
 
@@ -30,7 +28,7 @@ FIXME: listing of options this app accepts.
 
 ## License
 
-Copyright © 2019 FIXME
+Copyright © 2019 Nick Tyson
 
 This program and the accompanying materials are made available under the
 terms of the Eclipse Public License 2.0 which is available at
